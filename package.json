@@ -7,7 +7,7 @@
         "build": "next build",
         "start": "next start",
         "svgr": "npx @svgr/cli -d src/components/icons --ignore-existing --icon --typescript public/icons",
-        "lint": "eslint '**/*.{js,jsx,ts,tsx}'",
+        "lint": "eslint \"**/*.{js,jsx,ts,tsx}\"",
         "prettier": "prettier --write '**/*.{js,jsx,ts,tsx}'",
         "test": "jest -c test/jest.config.js"
     },
@@ -61,5 +61,8 @@
         "hooks": {
             "pre-commit": "lint-staged"
         }
+    },
+    "resolutions": {
+        "@types/react": "^17.0.38"
     }
 }
