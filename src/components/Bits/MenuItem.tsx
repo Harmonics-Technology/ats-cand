@@ -21,7 +21,7 @@ export const MenuItem = ({
     const { user } = useContext(UserContext);
     const url = `/${linkName}`;
     return (
-        <Link href={`${url}/${user?.id}`} passHref>
+        <Link href={`${url}?id=${user?.id}`} passHref>
             <Box
                 overflow="hidden"
                 cursor="pointer"

@@ -46,7 +46,7 @@ export const Dashboard = ({ user }: dashProps) => {
                     subTitle="my jobs"
                     value={user?.myJobs}
                     title="Total Number Of Jobs Applied"
-                    url={`/jobs/${user?.id}`}
+                    url={`/jobs?id=${user?.id}`}
                 />
                 <StatCards
                     subTitle="rejected jobs"
@@ -75,7 +75,7 @@ export const Dashboard = ({ user }: dashProps) => {
                         <Text color="black" mb="0">
                             Applications
                         </Text>
-                        <Link href={`/jobs/${user?.id}`} passHref>
+                        <Link href={`/jobs?id=${user?.id}`} passHref>
                             <Text
                                 cursor="pointer"
                                 color="brand.200"
