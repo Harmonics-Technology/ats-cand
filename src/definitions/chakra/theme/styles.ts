@@ -11,6 +11,7 @@ export default {
             },
             p: {
                 marginBottom: "1em",
+                fontWeight: 500,
             },
         },
     },

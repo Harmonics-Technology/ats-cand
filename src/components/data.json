@@ -1,0 +1,316 @@
+[
+    {
+        "id": 1,
+        "name": "Adam Smith",
+        "address": "Quebec Canada",
+        "myJobs": 8,
+        "rejectedJobs": 4,
+        "ShortlistedJobs": 1,
+        "interviews": 2,
+        "applications": [
+            {
+                "id": 1,
+                "title": "Project Analyst II",
+                "status": "In-progress",
+                "chances": "70%",
+                "logo": "https://ucarecdn.com/74b760cb-84a3-45a7-a040-25d975715bb4/"
+            },
+            {
+                "id": 2,
+                "title": "Business System Analyst",
+                "status": "In-progress",
+                "chances": "50%",
+                "logo": "https://ucarecdn.com/57ad9f57-26d1-4d70-98d9-9cff933a10c5/"
+            },
+            {
+                "id": 3,
+                "title": "Senior Business Analyst",
+                "status": "In-progress",
+                "chances": "50%",
+                "logo": "https://ucarecdn.com/57ad9f57-26d1-4d70-98d9-9cff933a10c5/"
+            },
+            {
+                "id": 4,
+                "title": "Project Manager",
+                "status": "Shortlisted",
+                "chances": "90%",
+                "logo": "https://ucarecdn.com/aa5e451a-37eb-4f41-a4ed-78da3825f792/"
+            },
+            {
+                "id": 5,
+                "title": "Event Manager",
+                "status": "In-progress",
+                "chances": "60%",
+                "logo": "https://ucarecdn.com/735198a3-dd21-4f4c-81c0-3032d3beeaae/"
+            },
+            {
+                "id": 6,
+                "title": "Delivery Manager",
+                "status": "In-progress",
+                "chances": "80%",
+                "logo": "https://ucarecdn.com/efb381bb-5393-4b73-b286-9000012790d4/"
+            },
+            {
+                "id": 7,
+                "title": "Business Development Manager",
+                "status": "In-progress",
+                "chances": "70%",
+                "logo": "https://ucarecdn.com/bf12f489-0882-47a1-9ef9-9fd8d6f321e5/"
+            },
+            {
+                "id": 8,
+                "title": "HR Coordinator",
+                "status": "Withdrawn",
+                "chances": "",
+                "logo": "https://ucarecdn.com/454aa280-bc36-4ecb-a6cd-c30f6771a35b/"
+            }
+        ],
+        "recommendedJobs": [
+            {
+                "id": 1,
+                "title": "HR Coordinator",
+                "address": "Ontario, Canada",
+                "time": "5 weeks ago",
+                "applicants": "116 ",
+                "logo": "https://ucarecdn.com/454aa280-bc36-4ecb-a6cd-c30f6771a35b/"
+            },
+            {
+                "id": 2,
+                "title": "Project Manager",
+                "address": "Quebec, Canada",
+                "time": "5 weeks ago",
+                "applicants": "116 ",
+                "logo": "https://ucarecdn.com/efb381bb-5393-4b73-b286-9000012790d4/"
+            },
+            {
+                "id": 3,
+                "title": "Project Coordinator",
+                "address": "Ontario, Canada",
+                "time": "5 weeks ago",
+                "applicants": "116 ",
+                "logo": "https://ucarecdn.com/bf12f489-0882-47a1-9ef9-9fd8d6f321e5/"
+            }
+        ],
+        "sessions": [
+            {
+                "id": 1,
+                "title": "First Interview",
+                "date": "15th Feb, 2023",
+                "time": "9:00AM - 10:00AM"
+            },
+            {
+                "id": 2,
+                "title": "Technica Round",
+                "date": "26th Feb, 2023",
+                "time": "9:00AM - 10:00AM"
+            },
+            {
+                "id": 3,
+                "title": "Online Assessment",
+                "date": "6th Mar, 2023",
+                "time": "9:00AM - 10:00AM"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "David Asano",
+        "address": "Toronto, Ontario, Canada",
+        "myJobs": 8,
+        "rejectedJobs": 2,
+        "ShortlistedJobs": 1,
+        "interviews": 2,
+        "applications": [
+            {
+                "id": 1,
+                "title": "Project Analyst II",
+                "status": "In-progress",
+                "chances": "70%",
+                "logo": "https://ucarecdn.com/735198a3-dd21-4f4c-81c0-3032d3beeaae/"
+            },
+            {
+                "id": 2,
+                "title": "Business System Analyst",
+                "status": "In-progress",
+                "chances": "50%",
+                "logo": "https://ucarecdn.com/efb381bb-5393-4b73-b286-9000012790d4/"
+            },
+            {
+                "id": 3,
+                "title": "Senior Business Analyst",
+                "status": "In-progress",
+                "chances": "50%",
+                "logo": "https://ucarecdn.com/bf12f489-0882-47a1-9ef9-9fd8d6f321e5/"
+            },
+            {
+                "id": 4,
+                "title": "Project Manager",
+                "status": "Shortlisted",
+                "chances": "90%",
+                "logo": "https://ucarecdn.com/454aa280-bc36-4ecb-a6cd-c30f6771a35b/"
+            },
+            {
+                "id": 5,
+                "title": "Event Manager",
+                "status": "In-progress",
+                "chances": "60%"
+            },
+            {
+                "id": 6,
+                "title": "Delivery Manager",
+                "status": "In-progress",
+                "chances": "80%"
+            },
+            {
+                "id": 7,
+                "title": "Business Development Manager",
+                "status": "In-progress",
+                "chances": "70%"
+            },
+            {
+                "id": 8,
+                "title": "HR Coordinator",
+                "status": "Withdrawn",
+                "chances": ""
+            }
+        ],
+        "recommendedJobs": [
+            {
+                "id": 1,
+                "title": "HR Coordinator",
+                "address": "Quebec, Canada",
+                "time": "5 weeks ago",
+                "applicants": "116 ",
+                "logo": "https://ucarecdn.com/bf12f489-0882-47a1-9ef9-9fd8d6f321e5/"
+            },
+            {
+                "id": 2,
+                "title": "Project Manager",
+                "address": "Ontario, Canada",
+                "time": "5 weeks ago",
+                "applicants": "116 ",
+                "logo": "https://ucarecdn.com/bf12f489-0882-47a1-9ef9-9fd8d6f321e5/"
+            },
+            {
+                "id": 3,
+                "title": "Project Coordinator",
+                "address": "Ontario, Canada",
+                "time": "5 weeks ago",
+                "applicants": "116 ",
+                "logo": "https://ucarecdn.com/aa5e451a-37eb-4f41-a4ed-78da3825f792/"
+            }
+        ],
+        "sessions": [
+            {
+                "id": 1,
+                "title": "First Interview",
+                "date": "16th Feb, 2023",
+                "time": "9:00AM - 10:00AM"
+            },
+            {
+                "id": 2,
+                "title": "Technica Round",
+                "date": "26th Feb, 2023",
+                "time": "9:00AM - 10:00AM"
+            },
+            {
+                "id": 3,
+                "title": "Online Assessment",
+                "date": "6th Mar, 2023",
+                "time": "9:00AM - 10:00AM"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Fredrick Ehichioya",
+        "address": "Toronto, Ontario, Canada",
+        "myJobs": 5,
+        "rejectedJobs": 1,
+        "ShortlistedJobs": 1,
+        "interviews": 1,
+        "applications": [
+            {
+                "id": 1,
+                "title": "Event Manager",
+                "status": "In-progress",
+                "chances": "60%",
+                "logo": "https://ucarecdn.com/735198a3-dd21-4f4c-81c0-3032d3beeaae/"
+            },
+            {
+                "id": 2,
+                "title": "Delivery Manager",
+                "status": "In-progress",
+                "chances": "80%",
+                "logo": "https://ucarecdn.com/efb381bb-5393-4b73-b286-9000012790d4/"
+            },
+            {
+                "id": 3,
+                "title": "Business Development Manager",
+                "status": "In-progress",
+                "chances": "70%",
+                "logo": "https://ucarecdn.com/bf12f489-0882-47a1-9ef9-9fd8d6f321e5/"
+            },
+            {
+                "id": 4,
+                "title": "HR Coordinator",
+                "status": "Withdrawn",
+                "chances": "",
+                "logo": "https://ucarecdn.com/454aa280-bc36-4ecb-a6cd-c30f6771a35b/"
+            },
+            {
+                "id": 5,
+                "title": "Project Manager II",
+                "status": "Shortlisted",
+                "chances": "50%",
+                "logo": "https://ucarecdn.com/454aa280-bc36-4ecb-a6cd-c30f6771a35b/"
+            }
+        ],
+        "recommendedJobs": [
+            {
+                "id": 1,
+                "title": "HR Coordinator",
+                "address": "Ontario, Canada",
+                "time": "5 weeks ago",
+                "applicants": "20 ",
+                "logo": "https://ucarecdn.com/aa5e451a-37eb-4f41-a4ed-78da3825f792/"
+            },
+            {
+                "id": 2,
+                "title": "Project Manager",
+                "address": "Ontario, Canada",
+                "time": "5 weeks ago",
+                "applicants": "116 ",
+                "logo": "https://ucarecdn.com/efb381bb-5393-4b73-b286-9000012790d4/"
+            },
+            {
+                "id": 3,
+                "title": "Project Coordinator",
+                "address": "Quebec, Canada",
+                "time": "5 weeks ago",
+                "applicants": "116 ",
+                "logo": "https://ucarecdn.com/57ad9f57-26d1-4d70-98d9-9cff933a10c5/"
+            }
+        ],
+        "sessions": [
+            {
+                "id": 1,
+                "title": "First Interview",
+                "date": "15th Feb, 2023",
+                "time": "9:00AM - 10:00AM"
+            },
+            {
+                "id": 2,
+                "title": "Technica Round",
+                "date": "26th Feb, 2023",
+                "time": "9:00AM - 10:00AM"
+            },
+            {
+                "id": 3,
+                "title": "Online Assessment",
+                "date": "6th Mar, 2023",
+                "time": "9:00AM - 10:00AM"
+            }
+        ]
+    }
+]
