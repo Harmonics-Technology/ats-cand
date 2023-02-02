@@ -5,7 +5,7 @@ import Cookies from "js-cookie";
 import { GetServerSideProps } from "next";
 import { useRouter } from "next/router";
 import React, { useContext } from "react";
-import data from "../../src/components/data.json";
+import data from "../../public/data.json";
 
 const dashboard = () => {
     // console.log({ user });
